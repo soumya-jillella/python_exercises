@@ -1,5 +1,5 @@
 if "am_hungry":
-   print("get food")
+   print("get some chicken")
 else:
    print("go learn python")
 
